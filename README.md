@@ -16,7 +16,7 @@
 ### ℹ️ About me
 
 * 👨‍💻 Software Engineer at [Rockcontent](https://rockcontent.com/br/).
-* 👨‍🎓 Computer engineering student at UCL - Serra, ES.
+* 👨‍🎓 Computer engineering graduated in UCL - Serra, ES.
 * 💜 Passionate about technology
 
 
@@ -31,7 +31,9 @@
 ![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=Next.js)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter&color=blue)
+![Graphql](https://img.shields.io/badge/-Graphql-336791?style=flat-square&logo=graphql&color=red)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=yellow)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
