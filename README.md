@@ -15,7 +15,7 @@
 
 ### ℹ️ About me
 
-* 👨‍💻 Software Engineer at [Rockcontent](https://rockcontent.com/br/).
+* 👨‍💻 Software Engineer at [Impulso](https://impulso.team/).
 * 👨‍🎓 Computer engineering graduated in UCL - Serra, ES.
 * 💜 Passionate about technology
 
